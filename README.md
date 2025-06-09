@@ -26,8 +26,8 @@ This project is licensed under the MIT License.
 
 ## Images
 
-![alt text](Front-1.png)
+![Front-1](https://github.com/user-attachments/assets/b334055e-bb11-4f4b-8a2c-034fbaac85a0)
 
-![alt text](Front-2.png)
+![Front-2](https://github.com/user-attachments/assets/282f5bf8-e1e9-4c60-a6e4-ebd6f6c2439e)
 
-![alt text](Front-3.png)
+![Front-3](https://github.com/user-attachments/assets/d510b5ca-03b1-4ba2-8ff8-a23822a45a06)
